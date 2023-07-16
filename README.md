@@ -1,17 +1,16 @@
 # Todo
 simple todo with django.
 
-## Installation
-```
-python3 -m venv venv
-```
-
+Install
 ```
 pip install -r requirements.txt
 ```
-
-go to `todo` folder and run this command:
+```
+Create SuperUser 
+```
+python manage.py createsuperuser
+```
+Run
 ```
 python manage.py runserver
 ```
-To view the project, open this address http://localhost:8000 .
