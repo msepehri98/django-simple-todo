@@ -5,7 +5,6 @@ Install
 ```
 pip install -r requirements.txt
 ```
-```
 Create SuperUser 
 ```
 python manage.py createsuperuser
